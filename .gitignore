@@ -1,0 +1,7 @@
+data/*
+output/*
+
+my_secrets.py
+
+**/*.pyc
+.DS_Store
